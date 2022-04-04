@@ -1,5 +1,5 @@
 /* ====================================================================
- * just trying to build
+ * just trying to build, please
  * The Apache Software License, Version 1.1
  *
  * Copyright (c) 2000-2003 The Apache Software Foundation.  All rights
